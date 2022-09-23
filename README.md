@@ -1,16 +1,22 @@
 # flutter_upload_file
 
-A new Flutter project.
+Praktikum Upload File dan Play Video
 
-## Getting Started
+## Upload File
+![Screenshot flutter_upload_file](images/01.png)
+- Menampilkan button untuk melakukan upload file
+![Screenshot flutter_upload_file](images/02.png)
+- Menampilkan pilihan media untuk melakukan upload file
+![Screenshot flutter_upload_file](images/03.png)
+- Tampilan saat mengakses folder untuk melakukan upload file
+![Screenshot flutter_upload_file](images/04.png)
+- Tampilan saat user sudah melakukan upload file
+![Screenshot flutter_upload_file](images/05.png)
+- Apabila memilih media camera, maka akan menjalankan camera
 
-This project is a starting point for a Flutter application.
+### Play Video
+![Screenshot flutter_upload_file](images/06.png)
+- Menampilkan Video yang akan di jalankan, pada bagian kanan bawah terdapat tombol play dan pause untuk menjalankannya.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](images/08.gif)
+- Tampilan saat video di jalankan
